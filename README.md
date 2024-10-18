@@ -1,5 +1,2 @@
-![labrinth banner](https://user-images.githubusercontent.com/12068027/100479891-d6bab300-30ac-11eb-8336-b4cad376a03d.png)
-
-## Modrinth's laboratory for its backend service & API!
-
-For contributing information, please see the labrinth section of the [Modrinth contributing guide](https://docs.modrinth.com/docs/details/contributing/#labrinth-backend-and-api). For documentation on the API itself, see the [API Spec](https://docs.modrinth.com/api-spec/).
+# Knossos is now known as `labrinth` in Modrinth's monorepo here: https://github.com/modrinth/code/tree/main/apps/labrinth
+This repo is archived and will no longer be updated.
